@@ -1,2 +1,4 @@
-//botão de curtidas
-document.addEventListener
+//botão curtidas 
+document.addEventListener("DOMcontentLoaded", () =>{
+    
+})
